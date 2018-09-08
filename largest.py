@@ -1,9 +1,9 @@
-d=int(raw_input())
-e=int(raw_input())
-f=int(raw_input())
-if ((d>e) and (d>f)):
-	print(d)
-elif (e>f):
-	print(e)
+s=int(raw_input())
+t=int(raw_input())
+u=int(raw_input())
+if ((s>t) and (s>u)):
+	print(s)
+elif (t>u):
+	print(t)
 else:
-	print(f)
+	print(u)
