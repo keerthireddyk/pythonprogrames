@@ -1,5 +1,5 @@
-h=int(raw_input())
-if ((h%4)==0):
-	print("Yes")
+u=int(raw_input())
+if ((u%4)==0):
+	print("yes")
 else:
-	print("No")
+	print("no")
