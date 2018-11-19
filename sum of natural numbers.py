@@ -1,5 +1,5 @@
 r=int(raw_input())
-sum=0
+num=0
 for x in range(1,r+1):
-	sum=sum+x
-	print(sum)
+	num=num+x
+	print(num)
