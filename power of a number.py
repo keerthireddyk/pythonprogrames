@@ -1,3 +1,2 @@
-m=int(input())
-b=int(input())
+m,b=map(int,input().split())
 print(m**b)
