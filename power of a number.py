@@ -1,3 +1,3 @@
-a=int(input())
+m=int(input())
 b=int(input())
-print(a**b)
+print(m**b)
