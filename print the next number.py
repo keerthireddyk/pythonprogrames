@@ -1,2 +1,2 @@
-k1=int(input())
-print(k1+1)
+f=int(input())
+print(f+1)
