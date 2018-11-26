@@ -1,7 +1,7 @@
-a,b=map(str,input().split())
-if (len(a)==len(b)):
-    print(a)
-elif (len(a)>len(b)):
-        print(a)
+f,g=map(str,input().split())
+if (len(f)==len(g)):
+    print(f)
+elif (len(f)>len(g)):
+        print(f)
 else:
-     print(b)
+     print(g)
