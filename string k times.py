@@ -1,3 +1,3 @@
-h,j=input("Enter s and n").split()
-for i in range(int(j)):
-    print(h)
+s,n=map(str,input().split())
+for x in range(int(n)):
+    print(s)
