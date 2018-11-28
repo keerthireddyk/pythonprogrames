@@ -1,3 +1,4 @@
+a1= int(input())
 s=input().split()
 sum=0
 a=0
