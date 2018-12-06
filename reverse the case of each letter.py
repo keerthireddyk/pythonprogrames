@@ -1,3 +1,3 @@
-n=str(input())
-m=n.swapcase()
-print(m)
+u=str(input())
+v=u.swapcase()
+print(v)
