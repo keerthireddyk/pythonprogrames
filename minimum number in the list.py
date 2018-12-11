@@ -1,6 +1,6 @@
 n=int(input())
 N=input().split()
-k=[]
+y=[]
 for x in range (0,n):
-             k.append(int(N[x]))
-print(min(k))
+             y.append(int(N[x]))
+print(min(y))
