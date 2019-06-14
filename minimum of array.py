@@ -1,9 +1,9 @@
-r=int(input())
+a=int(input())
 t=1
-while(t<=r and t*2<=r):
+while(t<=a and t*2<=a):
     t=t*2
 
-if(t==r):
+if(t==a):
     print("0")
 else:    
-    print(r-t)
+    print(a-t)
